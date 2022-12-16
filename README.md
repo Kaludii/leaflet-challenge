@@ -3,7 +3,7 @@
 ---
 
 # Site
-Click [Here](https://kaludii.github.io/belly-button-challenge/ "Here") To View The Earthquake Visualization Dashboard!
+Click [Here](https://kaludii.github.io/leaflet-challenge/ "Here") To View The Earthquake Visualization Dashboard!
 
 
 ### Created the Earthquake Visualization
